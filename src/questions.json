@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "What is the name of Hester and Dimmesdale's child?",
+      "answers": [
+        "Sapphire",
+        "Ruby",
+        "Pearl",
+        "Crystal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the Governor's last name?",
+      "answers": [
+        "Bellingham",
+        "Dimmesdale",
+        "Chillingworth",
+        "Wilson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What letter is the Scarlet Letter?",
+      "answers": [
+        "B",
+        "D",
+        "C",
+        "A"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What does the Scarlet Letter stand for?",
+      "answers": [
+        "Awesome",
+        "Adultery",
+        "Attractive",
+        "Ashamed"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "What would Hester's punishment have been had she not had a child?",
+      "answers": [
+        "Death",
+        "Jailed for life",
+        "Exiled",
+        "No Punishment"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What was Hester and Dimmesdale's plan for escaping?",
+      "answers": [
+        "Running to another town nearby",
+        "Going to Europe on a pirate ship",
+        "Confessing and being killed",
+        "They had no plan to escape"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Roger Chillingworth is...",
+      "answers": [
+        "Not in the story",
+        "A teacher at the school in town",
+        "Dimmesdale's therapist",
+        "Hester's husband"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "What is Roger Chillingworth's real name?",
+      "answers": [
+        "John Doe",
+        "Ben Sawyer",
+        "Unknown",
+        "Stephen James"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How many main characters are there?",
+      "answers": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Where is Dimmesdale's Scarlet Letter?",
+      "answers": [
+        "Carved into his chest",
+        "Sewed onto his clothes",
+        "On his forehead",
+        "Carved into his left palm"
+      ],
+      "correctAnswer": 0
+    }
+  ]
+}
