@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/scarlet-letter-trivia/static/css/main.59f1a064.css",
-    "main.js": "/scarlet-letter-trivia/static/js/main.f7d07dee.js",
-    "static/js/787.dddbe7b4.chunk.js": "/scarlet-letter-trivia/static/js/787.dddbe7b4.chunk.js",
-    "index.html": "/scarlet-letter-trivia/index.html",
-    "main.59f1a064.css.map": "/scarlet-letter-trivia/static/css/main.59f1a064.css.map",
-    "main.f7d07dee.js.map": "/scarlet-letter-trivia/static/js/main.f7d07dee.js.map",
-    "787.dddbe7b4.chunk.js.map": "/scarlet-letter-trivia/static/js/787.dddbe7b4.chunk.js.map"
+    "main.css": "/romeo-and-juliet-trivia/static/css/main.59f1a064.css",
+    "main.js": "/romeo-and-juliet-trivia/static/js/main.df9702a4.js",
+    "static/js/787.dddbe7b4.chunk.js": "/romeo-and-juliet-trivia/static/js/787.dddbe7b4.chunk.js",
+    "index.html": "/romeo-and-juliet-trivia/index.html",
+    "main.59f1a064.css.map": "/romeo-and-juliet-trivia/static/css/main.59f1a064.css.map",
+    "main.df9702a4.js.map": "/romeo-and-juliet-trivia/static/js/main.df9702a4.js.map",
+    "787.dddbe7b4.chunk.js.map": "/romeo-and-juliet-trivia/static/js/787.dddbe7b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59f1a064.css",
-    "static/js/main.f7d07dee.js"
+    "static/js/main.df9702a4.js"
   ]
 }
