@@ -1,102 +1,102 @@
 {
   "questions": [
     {
-      "question": "What is the name of Hester and Dimmesdale's child?",
+      "question": "What is Romeo's last name?",
       "answers": [
-        "Sapphire",
-        "Ruby",
-        "Pearl",
-        "Crystal"
+        "Escalus",
+        "Capulet",
+        "Montague",
+        "Capulet"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "What is the Governor's last name?",
+      "question": "What is Juliet's last name?",
       "answers": [
-        "Bellingham",
-        "Dimmesdale",
-        "Chillingworth",
-        "Wilson"
+        "Capulet",
+        "Montague",
+        "Escalus",
+        "Laurence"
       ],
       "correctAnswer": 0
     },
     {
-      "question": "What letter is the Scarlet Letter?",
+      "question": "Where does Romeo and Juliet take place?",
       "answers": [
-        "B",
-        "D",
-        "C",
-        "A"
+        "Boston",
+        "Florence",
+        "Rome",
+        "Verona"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "What does the Scarlet Letter stand for?",
+      "question": "Who recognizes Romeo at the party?",
       "answers": [
-        "Awesome",
-        "Adultery",
-        "Attractive",
-        "Ashamed"
+        "Paris",
+        "Tybalt",
+        "Juliet",
+        "Lord Capulet"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "What would Hester's punishment have been had she not had a child?",
+      "question": "How are Juliet and Tybalt related?",
       "answers": [
-        "Death",
-        "Jailed for life",
-        "Exiled",
-        "No Punishment"
+        "Cousins",
+        "Siblings",
+        "Niece and uncle",
+        "They aren't"
       ],
       "correctAnswer": 0
     },
     {
-      "question": "What was Hester and Dimmesdale's plan for escaping?",
+      "question": "Who kills Mercutio?",
       "answers": [
-        "Running to another town nearby",
-        "Going to Europe on a pirate ship",
-        "Confessing and being killed",
-        "They had no plan to escape"
+        "Romeo",
+        "Tybalt",
+        "Prince Escalus",
+        "Benvolio"
       ],
       "correctAnswer": 1
     },
     {
-      "question": "Roger Chillingworth is...",
+      "question": "Who does Juliet marry?",
       "answers": [
-        "Not in the story",
-        "A teacher at the school in town",
-        "Dimmesdale's therapist",
-        "Hester's husband"
+        "Paris",
+        "Benvolio",
+        "Tybalt",
+        "Romeo"
       ],
       "correctAnswer": 3
     },
     {
-      "question": "What is Roger Chillingworth's real name?",
+      "question": "Who gets to the tomb first?",
       "answers": [
-        "John Doe",
-        "Ben Sawyer",
-        "Unknown",
-        "Stephen James"
+        "Romeo",
+        "Friar Laurence",
+        "Paris",
+        "Lord Capulet"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "How many main characters are there?",
+      "question": "How does Juliet die?",
       "answers": [
-        "3",
-        "5",
-        "4",
-        "2"
+        "Gun",
+        "Leftover Poison",
+        "Dagger",
+        "She doesn't"
       ],
       "correctAnswer": 2
     },
     {
-      "question": "Where is Dimmesdale's Scarlet Letter?",
+      "question": "How does Romeo die?",
       "answers": [
-        "Carved into his chest",
-        "Sewed onto his clothes",
-        "On his forehead",
-        "Carved into his left palm"
+        "Poison",
+        "Dagger",
+        "Heartbreak",
+        "He doesn't"
       ],
       "correctAnswer": 0
     }
